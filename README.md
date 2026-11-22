@@ -149,5 +149,3 @@ Statistician | Data Analyst | Business Intelligence Analyst
 Email: yakubolawale576@gmail.com
 LinkedIn: https://www.linkedin.com/in/olawale-yakub
 GitHub: https://github.com/yakubolawale
-GitHub: https://github.com/yakubolawalequestions.
-This project represents another step in my continuous learning journey in Data Analytics, SQL and Business Intelligence.
